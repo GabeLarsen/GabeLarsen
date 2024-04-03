@@ -1,4 +1,4 @@
--  Hi, I’m Gabriel Larsen or Gabe Larsen
+-  Hi, I’m Gabriel/Gabe Larsen
 -  I’m interested in programming and design.
 -  I’m currently learning web and graphic design.
 -  I’m looking to collaborate on projects that help people.
