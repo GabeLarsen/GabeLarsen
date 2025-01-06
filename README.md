@@ -1,10 +1,7 @@
 -  Hi, I’m Gabriel/Gabe Larsen
--  I’m interested in programming and design.
--  I’m currently learning web and graphic design.
--  I’m looking to collaborate on projects that help people.
--  How to reach me, you can send me an email.
+- Im interested in Web and Graphic Desgin.
+- I also graduated in it.
 -  Pronouns: he/him
--  Fun fact: I am an idiot.
 
 <!---
 GabeLarsen/GabeLarsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
