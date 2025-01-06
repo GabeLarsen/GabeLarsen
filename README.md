@@ -1,6 +1,5 @@
 -  Hi, I’m Gabriel/Gabe Larsen
-- Im interested in Web and Graphic Desgin.
-- I also graduated in it.
+- I recently graduated in Web and Graphic Desgin.
 -  Pronouns: he/him
 
 <!---
